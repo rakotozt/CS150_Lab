@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ExperimentController
+comment0.text=\n\ Measures\ the\ execution\ time\ using\ iterator\ and\ not\ using\ iterator\ \n\n\ @author\ Tafita\ Rakotozandry\ \n\ @version1\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=s\ numberOfItems\ seed\ searchingVal
+comment2.target=long\ timeSearchWithIterator(MyListIntegerContainer,\ int,\ int,\ int)
+comment2.text=\nMeasures\ the\ execution\ time\ performing\ an\ a\ search\ using\ an\ iterator\ \n@param\ numberOfItems\:\ number\ of\ items\ \n@param\ seed\ seeds\ \n@param\ searchingVal\ the\ variable\ to\ search\ for\ \n\n
+comment3.params=s\ numberOfItems\ seed\ searchingVal
+comment3.target=long\ timeSearchWithoutIterator(MyListIntegerContainer,\ int,\ int,\ int)
+comment3.text=\nMeasures\ the\ execution\ time\ performing\ a\ search\ using\ the\ classic\ for\ loop\ \n@param\ numberOfItems\:\ number\ of\ items\ \n@param\ seed\ seeds\ \n@param\ searchingVal\ the\ variable\ to\ search\ for\ \n\n
+numComments=4

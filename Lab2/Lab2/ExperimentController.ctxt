@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ExperimentController
+comment1.params=
+comment1.target=void\ main()
+comment2.params=
+comment2.target=ExperimentController()
+comment2.text=\n\ Constructor\ for\ objects\ of\ class\ ExperimentController\n
+comment3.params=numberOfItems\ seed
+comment3.target=long\ timeAddToFront(int,\ int)
+comment3.text=\n\ Time\ that\ takes\ to\ perform\ a\ Add\ to\ Front\ \n\n\ @param\ \ numberOfItems\ number\ of\ items\ to\ be\ added.\ \n\ @return\ \ \ \ time\ taken\ to\ perform\ a\ add\ to\ Front\ in\ milliseconds\ \n
+comment4.params=numberOfItems\ seed
+comment4.target=long\ timeAddToBack(int,\ int)
+comment4.text=\n\ Time\ that\ takes\ to\ perform\ a\ Add\ to\ Front\ \n\n\ @param\ \ numberOfItems\ number\ of\ items\ to\ be\ added.\ \n\ @return\ \ \ \ time\ taken\ to\ perform\ a\ add\ to\ Front\ in\ milliseconds\ \n
+comment5.params=numberOfItems\ seed
+comment5.target=long\ timeAddAt(int,\ int)
+comment5.text=\n\ Time\ that\ takes\ to\ perform\ a\ Add\ At\ \n\n\ @param\ \ numberOfItems\ number\ of\ items\ to\ be\ added.\ \n\ @return\ time\ taken\ to\ perform\ a\ add\ to\ Front\ in\ milliseconds\ \n
+numComments=6

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MyListIntegerContainer
+comment0.text=\n\ Integer\ container\ \n\n\ @author\ Tafita\ Rakotozandry\ \n\ @version1\n
+comment1.params=
+comment1.target=MyListIntegerContainer()
+comment1.text=\n\ Creates\ a\ new\ linkedList\ with\ an\ integer\ attribute\ \n\ \n
+comment2.params=num
+comment2.target=void\ addToFront(java.lang.Integer)
+comment2.text=\nAdd\ integer\ to\ front\ of\ the\ list\n@param\ num\ the\ desired\ number\n\n
+comment3.params=num
+comment3.target=void\ addToBack(java.lang.Integer)
+comment3.text=\nAdd\ integer\ to\ the\ back\ of\ the\ list\n@param\ num\ the\ desired\ number\ \ \n\n
+comment4.params=searchVal
+comment4.target=int\ searchWithoutIterator(java.lang.Integer)
+comment4.text=\nSearch\ the\ container\ using\ the\ classic\ for\ loop\n@param\ searchVal\ the\ value\ to\ search\ for\ \n\n
+comment5.params=searchVal
+comment5.target=int\ searchWithIterator(java.lang.Integer)
+comment5.text=\nSearch\ the\ container\ using\ iterator\n@param\ searchVal\ the\ value\ to\ search\ for\ \n\n
+numComments=6

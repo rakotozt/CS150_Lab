@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=ExperimentController
+comment0.text=\n\ Class\ to\ experiment\ the\ time\ taken\ by\ calling\ the\ method\ AddToFront,AddToBack,AddSorted,selectionSort\n\n\ @author\ Tafita\ Rakotozandry\n\ @version\ 1\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=ExperimentController()
+comment2.text=\n\ Creates\ an\ array\ with\ several\ list\ of\ string\ \n\n
+comment3.params=list\ seed
+comment3.target=java.lang.String\ getRandomElement(java.util.List,\ int)
+comment3.text=\n\ Returns\ a\ random\ element\ of\ the\ list\ \n\ \n@param\ list\ name\ of\ the\ list\ to\ withdraw\ the\ data\n@param\ seed\ seed\ number\ of\ the\ random\ generator\ \n
+comment4.params=numberOfItems\ seed
+comment4.target=long\ timeAddToFront(int,\ int)
+comment4.text=\n\ Returns\ time\ taken\ to\ add\ items\ at\ the\ beginning\ of\ the\ container\ \n\ \n@param\ numberOfItems\ number\ of\ items\ to\ insert\ \n@param\ seed\ seed\ number\ of\ the\ random\ generator\ \n
+comment5.params=numberOfItems\ seed
+comment5.target=long\ timeAddToBack(int,\ int)
+comment5.text=\n\ Returns\ time\ taken\ to\ add\ items\ at\ the\ end\ of\ the\ container\ \n\ \n@param\ numberOfItems\ number\ of\ items\ to\ insert\ \n@param\ seed\ seed\ number\ of\ the\ random\ generator\ \n
+comment6.params=numberOfItems\ seed
+comment6.target=long\ timeAddSorted(int,\ int)
+comment6.text=\n\ Returns\ time\ taken\ to\ add\ items\ at\ the\ sorted\ container\ \n\ \n@param\ numberOfItems\ number\ of\ items\ to\ insert\ \n@param\ seed\ seed\ number\ of\ the\ random\ generator\ \n
+comment7.params=numberOfItems\ seed
+comment7.target=long\ timeSortofUnsortedList(int,\ int)
+comment7.text=\n\ Returns\ time\ taken\ sort\ unsorted\ list\ \ \n\ \n@param\ numberOfItems\ number\ of\ items\ to\ insert\ \n@param\ seed\ seed\ number\ of\ the\ random\ generator\ \n
+comment8.params=numberOfItems\ seed
+comment8.target=long\ timeSortofSortedList(int,\ int)
+comment8.text=\n\ Returns\ time\ taken\ sort\ a\ sorted\ list\ \ \n\ \n@param\ numberOfItems\ number\ of\ items\ to\ insert\ \n@param\ seed\ seed\ number\ of\ the\ random\ generator\ \n
+numComments=9

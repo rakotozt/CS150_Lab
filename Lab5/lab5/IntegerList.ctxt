@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=IntegerList
+comment0.text=\r\n\ Integer\ linked\ list\ ADT\r\n\r\n\ @author\ Tafita\ Rakotozandry\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=IntegerList()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ IntegerList\r\n
+comment2.params=x
+comment2.target=void\ append(java.lang.Integer)
+comment2.text=\r\n\ inserts\ x\ at\ the\ end\ of\ the\ list\ \ \r\n\ \r\n@param\ numberOfItems\ number\ of\ items\ to\ insert\ \r\n@param\ seed\ seed\ number\ of\ the\ random\ generator\ \r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ returns\ a\ String\ that\ is\ stored\ in\ this\ list\ \ \ \r\n\ \r\n@param\ numberOfItems\ number\ of\ items\ to\ insert\ \r\n@param\ seed\ seed\ number\ of\ the\ random\ generator\ \r\n
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment4.text=\r\n\ returns\ true\ if\ the\ list\ is\ empty\ \ \ \r\n\ \ \r\n
+comment5.params=
+comment5.target=Cell\ getRoot()
+comment5.text=\r\n\ returns\ the\ root\ value\ \ \r\n\ \ \r\n
+numComments=6

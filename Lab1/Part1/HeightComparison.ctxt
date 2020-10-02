@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=HeightComparison
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=HeightComparison()
+comment2.text=\n\ Height\ Comparison\ Constructor\ \n
+comment3.params=
+comment3.target=void\ run()
+comment3.text=\n\ Run\ Method\ \n\ Run\ the\ overall\ comparison\ program\ \n
+numComments=4
