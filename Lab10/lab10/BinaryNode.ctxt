@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=BinaryNode
+comment0.text=\r\n\ Binary\ Node\ \r\n\r\n\ @author\ Tafita\ Rakoto\r\n\ @version\ 1\r\n
+comment1.params=key
+comment1.target=BinaryNode(java.lang.Object)
+comment1.text=\r\n\ Constructor\ for\ BinaryNode.\ Sets\ left\ and\ right\ children\ to\ null,\r\n\ and\ sets\ this.key\ to\ key\ \r\n\r\n\ @param\ data\ the\ data\ the\ node\ contains/wraps\r\n
+comment2.params=
+comment2.target=BinaryNode\ getLeft()
+comment2.text=\r\nGetter\ left\ Node\ \r\n
+comment3.params=
+comment3.target=BinaryNode\ getRight()
+comment3.text=\r\nGetter\ right\ Node\ \r\n
+comment4.params=
+comment4.target=java.lang.Object\ getKey()
+comment4.text=\r\nGetter\ key\r\n
+comment5.params=e
+comment5.target=java.lang.Object\ setKey(java.lang.Object)
+comment5.text=\r\nSetter\ key\r\n\r\n@param\ e\ element\ to\ set\ \r\n
+comment6.params=leftNode
+comment6.target=void\ setLeft(BinaryNode)
+comment6.text=\r\nSet\ the\ of\ the\ leftNode\r\n\r\n@param\ leftNode\ left\ node\ element\ \r\n
+comment7.params=rightNode
+comment7.target=void\ setRight(BinaryNode)
+comment7.text=\r\nSet\ the\ of\ the\ rightNode\r\n\r\n@param\ right\ node\ element\r\n
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
