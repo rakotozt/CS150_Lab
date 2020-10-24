@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=MyStack
+comment0.text=\r\n\ Stack\ Implementation\ Using\ LinkedList\r\n\r\n\ @author\ Tafita\ \r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=MyStack()
+comment2.params=
+comment2.target=boolean\ empty()
+comment2.text=\r\n\ Tests\ if\ this\ stack\ is\ empty.\r\n
+comment3.params=
+comment3.target=java.lang.Object\ peek()
+comment3.text=\r\n\ Looks\ at\ the\ object\ at\ the\ top\ of\ this\ stack\ without\ removing\ it\ from\ the\ stack.\r\n
+comment4.params=
+comment4.target=java.lang.Object\ pop()
+comment4.text=\r\n\ Removes\ the\ object\ at\ the\ top\ of\ this\ stack\ and\ returns\ that\ object\ as\ the\ value\ of\ this\ function.\r\n
+comment5.params=item
+comment5.target=java.lang.Object\ push(java.lang.Object)
+comment5.text=\r\n\ Pushes\ an\ item\ onto\ the\ top\ of\ this\ stack.\r\n\ @param\ item\ E\r\n
+comment6.params=o
+comment6.target=int\ search(java.lang.Object)
+comment6.text=\r\n\ Returns\ the\ 1-based\ position\ where\ an\ object\ is\ on\ this\ stack.\r\n\ @param\ o\ Object\r\n
+numComments=7

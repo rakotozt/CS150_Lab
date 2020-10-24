@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=StackInterface
+comment0.text=\r\n\ Stack\ Interface\ \r\n\r\n\ @author\ Tafita\ Rakotozandry\ \r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=boolean\ empty()
+comment1.text=\r\n\ \ Tests\ if\ stack\ is\ empty\r\n\r\n
+comment2.params=
+comment2.target=java.lang.Object\ peek()
+comment2.text=\r\n\ \ \ Looks\ at\ the\ object\ at\ the\ top\ of\ the\ stack\ without\r\n\ \ \ \ removing\ it.\r\n\r\n
+comment3.params=
+comment3.target=java.lang.Object\ pop()
+comment3.text=\r\n\ \ \u2013\ Removes\ the\ object\ at\ the\ top\ of\ the\ stack\ and\ returns\r\n\ \ \ \ the\ object\ as\ the\ value\ of\ this\ function.\r\n\r\n
+comment4.params=item
+comment4.target=java.lang.Object\ push(java.lang.Object)
+comment4.text=\r\n\ \ \ \ Pushes\ an\ item\ onto\ the\ top\ of\ the\ stack\r\n\r\n
+comment5.params=o
+comment5.target=int\ search(java.lang.Object)
+comment5.text=\r\n\ \ \ \ Returns\ the\ distance\ from\ the\ top\ of\ the\r\n\ \ \ \ stack\ of\ the\ occurrence\ that\ is\ nearest\ the\ top\ of\ the\ stack.\ The\r\n\ \ \ \ topmost\ item\ is\ considered\ to\ be\ at\ distance\ 1;\ the\ next\ item\ is\r\n\ \ \ \ at\ distance\ 2;\ etc.\r\n\r\n
+numComments=6

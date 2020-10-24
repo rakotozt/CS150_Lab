@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MyLinkedListIterator
+comment1.params=linkedList
+comment1.target=MyLinkedListIterator(MyLinkedList)
+comment1.text=\r\n\ Constructor\ for\ the\ class\r\n\ \r\n
+comment2.params=
+comment2.target=java.lang.Object\ next()
+comment2.text=\r\n\ Returns\ the\ next\ element\ in\ the\ iteration.\r\n\ \r\n
+comment3.params=
+comment3.target=boolean\ hasNext()
+comment3.text=\r\nReturns\ true\ if\ the\ iteration\ has\ more\ elements.\r\n\r\n
+numComments=4

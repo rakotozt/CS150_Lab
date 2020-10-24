@@ -1,0 +1,18 @@
+Time to insert stack element to queue
+10,0
+100,0
+1000,2
+3000,11
+6000,45
+9000,104
+12000,191
+15000,309
+Time to insert queue element to stack
+10,0
+100,0
+1000,0
+3000,11
+6000,43
+9000,102
+12000,184
+15000,289

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Node
+comment0.text=\r\n\ LinkedList\ Node\ \r\n\r\n\ @author\ Tafita\ Rakotozandry\ \r\n\ @version\ version1\r\n
+comment1.params=
+comment1.target=Node()
+comment1.text=\r\nCreates\ an\ empty\ node\ \r\n\ \r\n
+comment2.params=val
+comment2.target=Node(java.lang.Object)
+comment2.text=\r\n\ Creates\ a\ node\ and\ insets\ a\ new\ element\ in\ the\ node\ \r\n\ \r\n
+comment3.params=
+comment3.target=java.lang.Object\ getVal()
+comment3.text=\r\n\ Returns\ the\ value\ in\ the\ node\ \r\n\ \r\n
+comment4.params=
+comment4.target=Node\ getNext()
+comment4.text=\r\n\ Returns\ the\ next\ Node\r\n\ \r\n
+numComments=5

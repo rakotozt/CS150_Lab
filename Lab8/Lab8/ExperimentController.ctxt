@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ExperimentController
+comment0.text=\r\n\ Compares\ the\ stack\ and\ the\ queue\r\n\r\n\ @author\ Tafita\ Rakoto\r\n\ @version\ 1\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=numberOfItems\ seed
+comment2.target=long\ timeInsertStackElementToQueue(int,\ int)
+comment2.text=\r\n\ Time\ inserting\ elements\ into\ the\ stack,\ then\ move\ to\ the\ queue\r\n\ @param\ numberOfItems\ the\ number\ of\ items\ \r\n\ @param\ seed\ seed\ value\ \r\n
+comment3.params=numberOfItems\ seed
+comment3.target=long\ timeInsertQueueElementToStack(int,\ int)
+comment3.text=\r\n\ Time\ inserting\ elements\ into\ the\ stack,\ then\ move\ to\ the\ queue\r\n\ @param\ numberOfItems\ the\ number\ of\ items\ \r\n\ @param\ seed\ seed\ value\ \r\n
+numComments=4

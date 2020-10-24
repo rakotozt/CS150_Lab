@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MyQueue
+comment0.text=\r\n\ Queue\ Implementation\ from\ linkeList\ \r\n\r\n\ @author\ Tafita\ Rakoto\r\n\ @version\ 1\r\n
+comment1.params=item
+comment1.target=java.lang.Object\ add(java.lang.Object)
+comment1.text=\r\n\ \ Inserts\ the\ specified\ element\ into\ the\ queue.\r\n\ @param\ item\ E\r\n
+comment2.params=
+comment2.target=java.lang.Object\ peek()
+comment2.text=\r\n\ Retrieves,\ but\ does\ not\ remove,\ the\ head\ of\ the\ queue.\r\n
+comment3.params=
+comment3.target=java.lang.Object\ remove()
+comment3.text=\r\n\ \ Retrieves\ and\ removes\ the\ head\ of\ the\ queue\r\n
+numComments=4
