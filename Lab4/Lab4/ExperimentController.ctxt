@@ -1,12 +1,12 @@
 #BlueJ class context
 comment0.target=ExperimentController
-comment0.text=\n\ Evaluates\ the\ performance\ of\ selection\ sort\ and\ bubble\ sort\ \n\n\ @author\ Tafita\ Rakotozandry\ \n\ @version\ 1\n
+comment0.text=\r\n\ Evaluates\ the\ performance\ of\ selection\ sort\ and\ bubble\ sort\ \r\n\r\n\ @author\ Tafita\ Rakotozandry\ \r\n\ @version\ 1\r\n
 comment1.params=
 comment1.target=void\ main()
 comment2.params=con
 comment2.target=long\ timeSelectionSort(RandomIntegerContainer)
-comment2.text=\n\ Returns\ time\ taken\ to\ \ perform\ a\ selection\ sort\ \n\ \n@param\ con\ randomIntegerContainer\ used\ \n
+comment2.text=\r\n\ Returns\ time\ taken\ to\ \ perform\ a\ selection\ sort\ \r\n\ \r\n@param\ con\ randomIntegerContainer\ used\ \r\n
 comment3.params=test
 comment3.target=long\ timeBubbleSort(RandomIntegerContainer)
-comment3.text=\n\ Returns\ time\ taken\ to\ \ perform\ a\ bubble\ sort\ \n\ \n@param\ con\ randomIntegerContainer\ used\ \n
+comment3.text=\r\n\ Returns\ time\ taken\ to\ \ perform\ a\ bubble\ sort\ \r\n\ \r\n@param\ con\ randomIntegerContainer\ used\ \r\n
 numComments=4
